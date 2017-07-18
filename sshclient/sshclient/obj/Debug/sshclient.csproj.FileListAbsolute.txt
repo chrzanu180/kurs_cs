@@ -1,0 +1,1 @@
+C:\Users\ekachrz\Documents\GitHub\kurs_cs\sshclient\sshclient\bin\Debug\sshclient.exe.config
